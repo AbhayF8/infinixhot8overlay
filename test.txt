@@ -1,0 +1,191 @@
+ ╭─abhay@Void in repo: vendor_hardware_overlay/tests on  pie took 11ms
+ ╰─λ bash tests.sh
+Fatal: ./Infinix/Hot8: Overlay ./Infinix/Hot8 is defining config_useRoundIcon which is forbidden
+Fatal: ./Infinix/Hot8: Overlay ./Infinix/Hot8 is defining config_cellBroadcastAppLinks which is forbidden
+Fatal: ./Infinix/Hot8: Overlay ./Infinix/Hot8 is defining config_enableAutoPowerModes which is forbidden
+Fatal: ./Infinix/Hot8: Overlay ./Infinix/Hot8 is defining config_enableMultiUserUI which is forbidden
+Fatal: ./Infinix/Hot8: Overlay ./Infinix/Hot8 is defining config_multiuserMaximumUsers which is forbidden
+Fatal: ./Infinix/Hot8/res/values/bools.xml: defines a non-existing attribute config_unplugTurnsOnScreen
+Fatal: ./Infinix/Hot8/res/values/bools.xml: defines a non-existing attribute config_enableMultiUserUI
+Fatal: ./Infinix/Hot8/res/values/bools.xml: defines a non-existing attribute config_dreamsSupported
+Fatal: ./Infinix/Hot8/res/values/bools.xml: defines a non-existing attribute config_cellBroadcastAppLinks
+Fatal: ./Infinix/Hot8/res/values/bools.xml: defines a non-existing attribute config_useRoundIcon
+Fatal: ./Infinix/Hot8/res/values/bools.xml: defines a non-existing attribute config_enableAutoPowerModes
+Fatal: ./Infinix/Hot8/res/values/bools.xml: defines a non-existing attribute config_enableGeocoderOverlay
+Fatal: ./Infinix/Hot8/res/values/bools.xml: defines a non-existing attribute config_enableGeofenceOverlay
+Fatal: ./Infinix/Hot8/res/values/dimens.xml: defines a non-existing attribute toast_y_offset
+Fatal: ./Infinix/Hot8/res/values/dimens.xml: defines a non-existing attribute quick_qs_total_height
+Fatal: ./Infinix/Hot8/res/values/arrays.xml: defines a non-existing attribute special_locale_codes
+Fatal: ./Infinix/Hot8/res/values/arrays.xml: defines a non-existing attribute special_locale_names
+Fatal: ./Infinix/Hot8/res/values/arrays.xml: defines a non-existing attribute supported_locales
+Fatal: ./Infinix/Hot8/res/values/arrays.xml: defines a non-existing attribute config_locationProviderPackageNames
+Fatal: ./Infinix/Hot8/res/values/arrays.xml: defines a non-existing attribute config_nonBlockableNotificationPackages
+Fatal: ./Infinix/Hot8/res/values/arrays.xml: defines a non-existing attribute vendor_required_apps_managed_device
+Fatal: ./Infinix/Hot8/res/values/arrays.xml: defines a non-existing attribute vendor_required_apps_managed_profile
+Fatal: ./Infinix/Hot8/res/values/arrays.xml: defines a non-existing attribute vendor_required_apps_managed_user
+Fatal: ./Infinix/Hot8/res/values/integers.xml: defines a non-existing attribute config_multiuserMaximumUsers
+Fatal: ./Infinix/Hot8/res/values/integers.xml: defines a non-existing attribute config_defaultNotificationVibrationIntensity
+Fatal: ./Infinix/Hot8/res/values/strings.xml: defines a non-existing attribute config_mms_user_agent
+Fatal: ./Infinix/Hot8/res/values/strings.xml: defines a non-existing attribute config_mms_user_agent_profile_url
+Fatal: ./Infinix/Hot8/res/values/strings.xml: defines a non-existing attribute config_wifi_framework_sap_2G_channel_list
+Fatal: ./Infinix/Hot8/res/values/strings.xml: defines a non-existing attribute config_wifi_tcp_buffers
+Fatal: ./Infinix/Hot8/res/values/strings.xml: defines a non-existing attribute config_wifi_random_mac_oui
+Fatal: ./Infinix/Hot8/res/values/strings.xml: defines a non-existing attribute config_wallpaperCropperPackage
+Fatal: ./Infinix/Hot8/res/values/strings.xml: defines a non-existing attribute default_browser
+Fatal: ./Infinix/Hot8/res/values/strings.xml: defines a non-existing attribute default_sms_application
+Fatal: ./Infinix/Hot8/res/values/strings.xml: defines a non-existing attribute config_icon_mask
+Fatal: ./Infinix/Hot8/res/values/strings.xml: defines a non-existing attribute config_persistentDataPackageName
+Fatal: ./Infinix/Hot8/res/values/strings.xml: defines a non-existing attribute config_defaultNetworkRecommendationProviderPackage
+Fatal: ./Infinix/Hot8/res/values/strings.xml: defines a non-existing attribute config_defaultAccessibilityService
+Fatal: ./Infinix/Hot8/res/values/strings.xml: defines a non-existing attribute config_defaultListenerAccessPackages
+Fatal: ./Infinix/Hot8/res/values/strings.xml: defines a non-existing attribute config_defaultAutofillService
+Fatal: ./Infinix/Hot8/res/values/strings.xml: defines a non-existing attribute config_defaultAssistantAccessPackage
+Fatal: ./Infinix/Hot8/res/values/strings.xml: defines a non-existing attribute config_defaultDndAccessPackages
+Fatal: ./Infinix/Hot8/res/values/strings.xml: defines a non-existing attribute harmful_app_warning_title
+Fatal: ./Infinix/Hot8/res/values/strings.xml: defines a non-existing attribute config_defaultAssistantComponentName
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute ic_sd_card_48dp
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute toast_frame
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute default_wallpaper
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_notify_car_mode
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_notify_chat
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_notify_disk_full
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_notify_email_generic
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_notify_error
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_notify_gmail
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_notify_missed_call
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_notify_mmcc_indication_icn
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_notify_more
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_notify_rssi_in_range
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_notify_sdcard
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_notify_sdcard_prepare
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_notify_sdcard_usb
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_notify_sim_toolkit
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_notify_sync
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_notify_sync_anim0
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_notify_sync_error
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_notify_voicemail
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_certificate_info
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_data_bluetooth
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_data_usb
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_data_wimax_signal_3_fully
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_data_wimax_signal_disconnected
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_download_anim0
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_download_anim1
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_download_anim2
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_download_anim3
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_download_anim4
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_download_anim5
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_gps_on
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_phone_call
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_tether_bluetooth
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_tether_general
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_tether_usb
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_throttled
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_upload_anim0
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_upload_anim1
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_upload_anim2
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_upload_anim3
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_upload_anim4
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_upload_anim5
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute stat_sys_warning
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute time_picker_text_input_material
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute transient_notification
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute activity_close_enter
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute activity_close_exit
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute activity_open_enter
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute activity_open_exit
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute task_close_enter
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute task_close_exit
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute task_open_enter
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute task_open_exit
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute toast_enter
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute toast_exit
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute wallpaper_close_enter
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute wallpaper_close_exit
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute wallpaper_open_enter
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute wallpaper_open_exit
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute power_profile
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute special_locale_codes
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute special_locale_names
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute supported_locales
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_locationProviderPackageNames
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_nonBlockableNotificationPackages
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute vendor_required_apps_managed_device
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute vendor_required_apps_managed_profile
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute vendor_required_apps_managed_user
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_twoDigitNumberPattern
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_tether_apndata
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute wfcOperatorErrorCodes
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute wfcOperatorErrorAlertMessages
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute wfcOperatorErrorNotificationMessages
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_cdma_international_roaming_indicators
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_unplugTurnsOnScreen
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_enableMultiUserUI
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_dreamsSupported
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_cellBroadcastAppLinks
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_useRoundIcon
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_enableAutoPowerModes
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_enableGeocoderOverlay
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_enableGeofenceOverlay
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_telephony_use_own_number_for_voicemail
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_mms_user_agent
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_mms_user_agent_profile_url
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_wifi_framework_sap_2G_channel_list
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_wifi_tcp_buffers
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_wifi_random_mac_oui
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_wallpaperCropperPackage
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute default_browser
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute default_sms_application
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_icon_mask
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_persistentDataPackageName
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_defaultNetworkRecommendationProviderPackage
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_defaultAccessibilityService
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_defaultListenerAccessPackages
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_defaultAutofillService
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_defaultAssistantAccessPackage
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_defaultDndAccessPackages
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute harmful_app_warning_title
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_defaultAssistantComponentName
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute permlab_readSms
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute permlab_writeContacts
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute wfcSpnFormat
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_multiuserMaximumUsers
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_defaultNotificationVibrationIntensity
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute config_valid_wappush_index
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute toast_y_offset
+Fatal: ./Infinix/Hot8/res/values/public.xml: defines a non-existing attribute quick_qs_total_height
+Warning: ./Moto/Razr/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/E5/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/G7Play/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/G6Play/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/E5Plus/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/G7Power/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/G6Plus/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/G6/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/One/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./HighPriorityMisc: Overlay ./HighPriorityMisc is defining config_swipe_up_gesture_setting_available which is forbidden
+Warning: ./HighPriorityMisc: Overlay ./HighPriorityMisc is defining config_volumeAdjustmentForRemoteGroupSessions which is forbidden
+Note: First high continuous priority available is 977
+	I recommend you use priority 875
+Fatal: overlay.mk: Not all overlays are listed in overlay.mk
+45d44
+< treble-overlay-infinix-hot8
+
+ ╭─abhay@Void in repo: vendor_hardware_overlay/tests on  pie took 18ms
+[🔍] × bash tests.sh
+Warning: ./Moto/Razr/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/E5/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/G7Play/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/G6Play/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/E5Plus/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/G7Power/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/G6Plus/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/G6/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/One/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./HighPriorityMisc: Overlay ./HighPriorityMisc is defining config_swipe_up_gesture_setting_available which is forbidden
+Warning: ./HighPriorityMisc: Overlay ./HighPriorityMisc is defining config_volumeAdjustmentForRemoteGroupSessions which is forbidden
+Note: First high continuous priority available is 977
+	I recommend you use priority 689
+Fatal: overlay.mk: Not all overlays are listed in overlay.mk
+45d44
+< treble-overlay-infinix-hot8
